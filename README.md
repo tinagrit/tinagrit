@@ -21,16 +21,16 @@ a web developer from Bangkok, Thailand. I can do almost all of the front-ends.
 ---
 ### Learning and Working on
 <p>
-<img onclick="alert("I'd like to remind you that HTML is not a programming language.")" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
-<img alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
-<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
-<img alt="mySQL" src="https://img.shields.io/badge/mySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-<img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=for-the-badge" />
-<img alt="Command Line" src="https://img.shields.io/badge/Command Line-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+<img title="I'd like to remind you that HTML is not a programming language." alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+<img title="Cascading Style Sheet, that makes websites beautiful" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+<img title="Yes Yes Yes! JavaScript is a programming language!" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img title="But PHP output is HTML, can we call HTML?" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" />
+<img title="This is a framework for CSS" alt="Bootstrap" src="https://img.shields.io/badge/BOOTSTRAP-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
+<img title="Angular is hard." alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
+<img title="sql injection is scary. don't do that!" alt="mySQL" src="https://img.shields.io/badge/mySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
+<img title="The language that makes the one who doesn't understand can code but still doesn't understand." alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img title="This is not programming but let's say I can code on Dreamweaver" alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000?logo=adobe&logoColor=white&style=for-the-badge" />
+<img title="very easy thing" alt="Command Line" src="https://img.shields.io/badge/Command Line-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
   </p>
   
 ---
