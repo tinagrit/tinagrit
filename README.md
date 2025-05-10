@@ -4,11 +4,11 @@
 
 A Computer Science undergraduate student and an occasional web developer living in BC, Canada.
 
-- 📚 BS majoring in CS, Simon Fraser University
+- 📚 BSc majoring in CS, Simon Fraser University
 - 🏫 Interested in Web Development
 - 🌐 Take a look at <a href="https://tinagrit.com">my personal website</a>!
 - ✏️ Read my university notes at <a href="https://munotes.tinagrit.com">munotes</a>.
-- 🤝 Download <a href="https://tinagrit.com/template/landing_assets/Resume-Web.pdf">my resume</a>.
+- 🤝 Download <a href="https://tinagrit.com/resume">my resume</a>.
 
 ---
 
